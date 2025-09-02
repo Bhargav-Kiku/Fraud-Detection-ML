@@ -234,5 +234,5 @@ The dashboard provides real-time monitoring and visualization of:
 ## 📧 Contact
 
 For questions and feedback:
-- Email: bhargav.kiku@gmail.com
+- Email: bhargavkikani99@gmail.com
 - GitHub: [Bhargav-Kiku](https://github.com/Bhargav-Kiku)
