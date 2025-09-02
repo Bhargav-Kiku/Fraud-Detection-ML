@@ -71,7 +71,7 @@ fraud-detection-system/
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Bhargav-Kiku/Fraud-Detection-ML.git
 cd fraud-detection-system
 ```
 
@@ -234,5 +234,5 @@ The dashboard provides real-time monitoring and visualization of:
 ## 📧 Contact
 
 For questions and feedback:
-- Email: [your-email@example.com]
-- GitHub: [your-github-username]
+- Email: bhargav.kiku@gmail.com
+- GitHub: [Bhargav-Kiku](https://github.com/Bhargav-Kiku)
